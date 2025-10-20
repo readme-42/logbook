@@ -15,8 +15,12 @@
 3.  개인 포트폴리오 대외활동 기입을 위한 git organization 생성 및 동아리 활동 기록
 - 조직 가입이 필요합니다.
 - 깃허브 아이디 또는 가입한 이메일 계정을 공유해주세요
-- 접근 가능할 지 모르겠네요.. 주소 먼저 공유합니다.
+- 여기 댓글로 본인 인트라 아이디를 기입해주세요.
 https://github.com/orgs/readme-42/discussions/1 
+
+예시 사진)
+
+![image](https://github.com/readme-42/logbook/blob/main/images/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-10-21%20003737.png?raw=true)
 
 4. 개설 신청서의 정회원 10명 + 준회원 2명 = 총 12명입니다.
 - 이 내용은 회의에서 언급하지 않았습니다. 
