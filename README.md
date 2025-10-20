@@ -1,3 +1,8 @@
-# logbook
-readme-42의 월간 아카이브입니다.
-👉 [Discussions 바로가기](https://github.com/orgs/readme-42/discussions/1)
+# 🌱 readme-42
+
+책을 읽고, 생각을 나누며 함께 성장하는 개발자들의 독서 동아리입니다.  
+의미 있는 세상과의 충돌을 통해 배우고, 지적 교류를 통해 사고를 확장합니다.
+
+# Our logbook
+
+👉 [Join the Discussions →](https://github.com/orgs/readme-42/discussions/1)
