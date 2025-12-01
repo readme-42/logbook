@@ -5,4 +5,4 @@
 
 # Our logbook
 
-👉 [Join the Discussions →](https://github.com/orgs/readme-42/discussions/1)
+👉 [Join the Discussions →](https://github.com/orgs/readme-42/discussions)
